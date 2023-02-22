@@ -6,7 +6,7 @@ This is the starting point for joining and contributing to the Kubernetes commun
 To learn more about the project structure and organization, please refer to [﻿Project Governance](/governance.md) information.
 
 ## What is Kubernetes?
-![Kubernetes Diagram](https://eraser.imgix.net/workspaces/HxRTzjSmOgPyajTS6E6x/reS6fUv66LcKWYn8yV2OvCPvwSm2/---figure---z-PUp90Dbdp8fMa9F0eJGA.svg?ixlib=js-3.7.0 "Kubernetes Diagram")
+![Figure 1](/.eraser/g3rDAwCLWnIPeArU3uo3___reS6fUv66LcKWYn8yV2OvCPvwSm2___---figure---ot17ew9vvp249PBsKpldcA.svg "Figure 1")
 
 ## Communicating
 The [﻿communication](communication/) page lists communication channels like chat,
@@ -23,7 +23,7 @@ Examples of committees include the steering committee and things like security o
 - **Special Interest Groups (SIGs)** are persistent open groups that focus on a part of the project.
 SIGs must have open and transparent proceedings.
 Anyone is welcome to participate and contribute provided they follow the Kubernetes Code of Conduct.
-The purpose of a SIG is to own and develop a set of **subprojects**. 
+The purpose of a SIG is to own and develop a set of **subprojects**.  
     - **Subprojects** Each SIG can have a set of subprojects.
 These are smaller groups that can work independently.
 Some subprojects will be part of the main Kubernetes deliverables while others will be more speculative and live in the `kubernetes-sigs` github org.
@@ -34,7 +34,6 @@ Working groups can report back and act through involved SIGs.
 topics that have long term relevance to large groups of Kubernetes users.
 They do not have ownership of parts of the Kubernetes code base.
 See the [﻿full governance doc](governance.md) for more details on these groups.
-
 A SIG can have its own policy for contribution, described in a `README` or `CONTRIBUTING` file in the SIG folder in this repo (e.g. [﻿sig-cli/CONTRIBUTING.md](sig-cli/CONTRIBUTING.md)), and its own mailing list, slack channel, etc.
 
 If you want to edit details about a SIG (e.g. its weekly meeting time or its leads),
@@ -51,7 +50,10 @@ SIGs will often have a set of "help wanted" issues that can help new contributor
 
 The [﻿Contributor Guide](contributors/guide/README.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
-1.     How to [﻿file an issue](contributors/guide/first-contribution.md#file-an-issue) 
+1.      ```
+How to [﻿file an issue](contributors/guide/first-contribution.md#file-an-issue)
+```
+
 2. How to [﻿find something to work on](contributors/guide/first-contribution.md#find-something-to-work-on) 
 3. How to [﻿open a pull request](contributors/guide/contributing.md#opening-a-pull-request) 
 ## Membership
@@ -59,4 +61,4 @@ We encourage all contributors to become members. We aim to grow an active, healt
 
 
 
-<!--- Eraser file: https://app.tryeraser.com/workspace/HxRTzjSmOgPyajTS6E6x --->
+<!--- Eraser file: https://app.eraser.io/workspace/g3rDAwCLWnIPeArU3uo3 --->
