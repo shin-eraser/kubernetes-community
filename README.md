@@ -6,7 +6,7 @@ This is the starting point for joining and contributing to the Kubernetes commun
 To learn more about the project structure and organization, please refer to [﻿Project Governance](/governance.md) information.
 
 ## What is Kubernetes?
-![Figure 1](/.eraser/g3rDAwCLWnIPeArU3uo3___reS6fUv66LcKWYn8yV2OvCPvwSm2___---figure---ot17ew9vvp249PBsKpldcA.svg "Figure 1")
+![Figure 1](https://eraser.imgix.net/workspaces/g3rDAwCLWnIPeArU3uo3/reS6fUv66LcKWYn8yV2OvCPvwSm2/---figure---ot17ew9vvp249PBsKpldcA.svg?ixlib=js-3.7.0 "Figure 1")
 
 ## Communicating
 The [﻿communication](communication/) page lists communication channels like chat,
