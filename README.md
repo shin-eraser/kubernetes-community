@@ -1,3 +1,4 @@
+[![Edit in Eraser](https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&token=968381c8-a7e7-472a-8ed6-4a6626da5501)](https://app.eraser.io/workspace/g3rDAwCLWnIPeArU3uo3)
 # Kubernetes Community
 Welcome to the Kubernetes community!
 
@@ -58,6 +59,7 @@ How to [﻿file an issue](contributors/guide/first-contribution.md#file-an-issue
 3. How to [﻿open a pull request](contributors/guide/contributing.md#opening-a-pull-request) 
 ## Membership
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [﻿Community Membership](/community-membership.md) page.
+
 
 
 
